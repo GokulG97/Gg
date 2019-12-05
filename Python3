@@ -1,3 +1,11 @@
+3. Given an object/dictionary, containing names as keys and amount_paid by each of them as
+values, write a function that takes such an object as input and calculates the total sum paid by them together.
+
+
+
+
+
+
 def totalamount(sum):
  amount=0
  for i in sum.values():
