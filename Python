@@ -6,6 +6,6 @@ for fizzbuzz in range(30):
     print("fizz")
     continue
    elif fizzbuzz %5 == 0:
-    print("buzzz")
+    print("buzz")
     continue
    print(fizzbuzz)
