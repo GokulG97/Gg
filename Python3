@@ -1,0 +1,7 @@
+def totalamount(sum):
+ amount=0
+ for i in sum.values():
+  amount = amount + i
+ return amount
+sum = {"Gokul" : 100, "Mani" : 200}
+print ("amount:",totalamount(sum))
