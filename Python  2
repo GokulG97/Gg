@@ -1,3 +1,9 @@
+2.  Given an array print all the numbers that are repeating in it and the number of times they are repeating.
+
+
+
+
+
 array = [1,2,3,3,2,1,1]
 output = {i:array.count(i) for i in array}
 print (output)
